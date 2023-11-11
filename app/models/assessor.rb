@@ -1,0 +1,2 @@
+class Assessor < ApplicationRecord
+end

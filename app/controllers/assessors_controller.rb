@@ -31,12 +31,12 @@
         private
     
         def find_assessor
-            Assessor.find(param[:id])
+            Assessor.find(params[:id])
             
         end
     
         def assessor_params
-            params.permit(:name, :id, :contact, :workStation, :assessorCode, :accountName, :accountNumber, :bankName , :branchName, :branchCode)
+            params.permit(:name, :idNo, :contact, :workStation, :assessorCode, :accountName, :accountNumber, :bankName , :branchName, :branchCode)
         end
 
         def render_response_not_found

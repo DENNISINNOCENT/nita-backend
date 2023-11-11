@@ -2,30 +2,24 @@
 
 one:
   name: MyString
-  id: MyString
-  integer: MyString
-  contact: MyString
-  integer: MyString
+  id: 1
+  contact: 1
   workStation: MyString
   assesorCode: MyString
-  accountNumber: MyString
-  integer: MyString
+  accountName: MyString
+  accountNumber: 1
   bankName: MyString
   branchName: MyString
-  branchCode: MyString
-  integer: MyString
+  branchCode: 1
 
 two:
   name: MyString
-  id: MyString
-  integer: MyString
-  contact: MyString
-  integer: MyString
+  id: 1
+  contact: 1
   workStation: MyString
   assesorCode: MyString
-  accountNumber: MyString
-  integer: MyString
+  accountName: MyString
+  accountNumber: 1
   bankName: MyString
   branchName: MyString
-  branchCode: MyString
-  integer: MyString
+  branchCode: 1
